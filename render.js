@@ -43,6 +43,7 @@ posts.forEach(function (post) {
 })
 
 renderStatic(templates.about, 'about')
+renderStatic(templates.about, 'index')
 
 // copy static stuff
 cptar('./static', outDir + '/static', function (err) {
