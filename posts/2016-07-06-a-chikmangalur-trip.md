@@ -6,7 +6,7 @@ and got replaced with serene view of coconut trees and distant farms. We reached
 Chennakeshava Temple, it almost took 100 years to build and craft sculptures.
 Self imposed guide described various stories around the carved godesses and a fine description of ornaments and dresses wore by woman of 1100 CE (approx). 
 
-<object width="800" height="600"> <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F42242899%40N05%2Fsets%2F72157670594662806%2Fshow%2F&page_show_back_url=%2Fphotos%2F42242899%40N05%2Fsets%2F72157670594662806%2F&set_id=72157670594662806&jump_to="></param> <param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=261948265"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="https://www.flickr.com/apps/slideshow/show.swf?v=261948265" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F42242899%40N05%2Fsets%2F72157670594662806%2Fshow%2F&page_show_back_url=%2Fphotos%2F42242899%40N05%2Fsets%2F72157670594662806%2F&set_id=72157670594662806&jump_to=" width="800" height="600"></embed></object>
+<a data-flickr-embed="true" data-header="true" data-footer="true" data-context="true"  href="https://www.flickr.com/photos/42242899@N05/28121868095/in/album-72157670594662806/" title="IMG_20160706_112735"><img src="https://c8.staticflickr.com/8/7426/28121868095_145985e8e5_z.jpg" width="640" height="640" alt="IMG_20160706_112735"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
 We reached chikmangalur soon enough after belur had lunch at giri-inn and reached the resort before eve. I was greeted by a small brown female dog.
