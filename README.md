@@ -1,6 +1,6 @@
-#deuwd.github.io
-npm start
-cp -r rendered/* .
-git add .
-git commit
-git push origin master
+# deuwd.github.io
+1. npm start
+2. cp -r rendered/* .
+3. git add .
+4. git commit
+5. git push origin master 
